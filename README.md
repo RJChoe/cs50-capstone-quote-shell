@@ -37,16 +37,18 @@ _('Mastery is not a function of genius or talent, it is a function of time and i
 - Worst words/(categories): joy, death, (specific foods ex. coffee), (specific animals ex. penguin)
 
 ## Directory Structure
-### `Project`
-- **`project/`**: Directory of Final Project for CS50P
+### `CS50-quote-shell`
+- **`quote_shell/`**: Directory of Final Project for CS50P
     - **`project_dev_py3.12.2/`**: venv folder
-    - `project.py`: Project Quote Generator main code
+    - `quote_shell.py`: Project Quote Generator main code
     - `README.md`: Description/instructions for Quote Generator project
     - `requirements.txt`: Quote Generator project dependencies list
-    - `test_project.py`: Tests for Quote Generator project
+    - `test_quote_shell.py`: Tests for Quote Generator project
+
 
 ## Design Decisions:
 <!-- if you debated certain design choices, explaining why you made them -->
+
 #### Virtual Environment
 Included virtual environment instructions for accessability in README.md
 
