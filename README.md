@@ -10,13 +10,24 @@ A CS50 project: a Python shell GUI that fetches and displays quotes containing a
 - Filters quotes using NLTK to validate English words  
 - Minimal API overhead with ZenQuotes JSON caching
 
-_Example:_<br>
-python quote_shell.py <br>
-_Quote with exact word included:_ ***time*** <br>
+_Example Usage:_<br>
+
+```bash
+python quote_shell.py
+```
+
+_Quote with exact word included:_ 
+
+***time*** <br>
 _("Don't spend time beating on a wall, hoping to transform it into a door.", 'Coco Chanel')_ <br>
 
-python quote_shell.py <br>
-_Quote with exact word included:_ ***time*** <br>
+```bash
+python quote_shell.py
+```
+
+_Quote with exact word included:_
+
+***time*** <br>
 _('Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.', 'Robert Greene')_
 
 Best words to use for a variety of quotes: man, love, past
